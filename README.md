@@ -2,7 +2,7 @@
 SOBRE LOS ARCHIVOS:
 - contar_palabras.py es un programa de Python usando la librería pyspark que toma como entrada el nombre de un archivo txt y el nombre que se deasea para el archivo de salida. El programa cuenta las palabras del archivo de entrada y escribe el resultado en el archivo de salida.
 
-- coger_porcentaje_lineas.py es un programa de Python usando la librería pyspark que toma como entrada un archivo txt, el nombre para el archivo txt de salida y un valor entre 0 y 1. El programa coge el porcentaje indicado de líneas del archivo de entrada para crear el archivo de salida.
+- coger_porcentaje_lineas.py es un programa de Python usando la librería pyspark que toma como entrada un archivo txt, el nombre para el archivo txt de salida y un valor entre 0 y 1. El programa coge el porcentaje indicado de líneas del archivo de entrada de forma aleatoria para crear el archivo de salida.
 
 - quijote.txt es el Quijote en archivo de texto
 
